@@ -1,0 +1,84 @@
+[
+  {
+    "id": 7,
+    "company": "(Current) Hacktiv8 Indonesia",
+    "description": "Responsible for teaching javascript, nodeJS, and various backend and front-end libraries, frameworks, and technologies such as PostgreSQL, MongoDB, Express, JQuery, React, React Native, Vue, GraphQL, Docker, etc. to students that enrolled in Fullstack Javascript Immersive Program to be a job-ready full-stack web developer.",
+    "job_title": "Fullstack Javascript Instructor",
+    "time": "May '19 - Now",
+    "contract": "Full Time",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/hacktiv8.png",
+    "current": true
+  },
+  {
+    "id": 9,
+    "company": "Komisi Pemberantasan Korupsi",
+    "description": "Developed a mobile application prototype using react-native for integrating several services they have to do their office work securely, quickly, and efficiently.",
+    "job_title": "Frontend Mobile Developer",
+    "time": "Mar '21 - May '21",
+    "contract": "Part Time",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/kpk.png"
+  },
+  {
+    "id": 8,
+    "company": "USAID CEGAH - Komisi Pemberantasan Korupsi",
+    "description": "Responsible for integrating some modules and creating a web application to support corruption prevention education reporting and evaluation to existing jaga.id web.",
+    "job_title": "Frontend Web Developer",
+    "time": "Oct '20 - Mar '21",
+    "contract": "Part Time",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/usaid.png"
+  },
+  {
+    "id": 6,
+    "company": "PT. LAPI ITB - Pertamina Research and Technology Center",
+    "description": "Developed a desktop application using WPF C#.NET for oil and gas exploration using thermal anomaly data. I translated the business processes and algorithms from them to become standalone software that they can use to conduct analysis and calculation to predict the potential presence of crude oil.",
+    "job_title": "Programmer",
+    "time": "Aug '18 - Dec '18",
+    "contract": "Part Time",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/rtc.png"
+  },
+  {
+    "id": 5,
+    "company": "PT. LPPM ITB - SKK Migas",
+    "description": "Rejoined the Subsurface Database Management System (SDMS) Team to continue the subsurface data loading project at SKK Migas under LPPM ITB. At that time, I am responsible as a Person in Charge of one team who ensures that my team successfully loads the targeted amount of company data to the database.",
+    "job_title": "Geoscientist",
+    "time": "Feb '18 - Nov '18",
+    "contract": "Full Time",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/lppm.png"
+  },
+  {
+    "id": 4,
+    "company": "Starstudents",
+    "description": "Responsible for conducting business analysis, tests, and critiques of the web and mobile applications they are developing.",
+    "job_title": "Business Development & QA Tester",
+    "time": "Nov '17 - Jan '18",
+    "contract": "Internship",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/ss.png"
+  },
+  {
+    "id": 3,
+    "company": "PT. LAPI ITB - SKK Migas",
+    "description": "Worked as an outsourcer under LAPI ITB in the Subsurface Database Management System (SDMS) Team responsible for loading subsurface data from oil and gas companies in Indonesia to the SKK Migas database. This project started from February to November each year dan runs for five years.",
+    "job_title": "Geoscientist",
+    "time": "Feb '17 - Nov '17",
+    "contract": "Full Time",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/lapi.png"
+  },
+  {
+    "id": 2,
+    "company": "DeltaGeoservices",
+    "description": "Developed several tools to help geoscience and petroleum analysis and calculation.",
+    "job_title": "C#.NET Developer (WPF, Ocean Petrel)",
+    "time": "Jun '16 - Jan '17",
+    "contract": "Pro Bono",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/dgs.png"
+  },
+  {
+    "id": 1,
+    "company": "PT. Chevron Pacific Indonesia",
+    "description": "Determined the movement of oil in several sandstone formations before and after implementing a waterflood by conducting sand-to-sand correlation, geological structure analysis, petrophysical data analysis, and fluid data on several wells.",
+    "job_title": "Development Geologist",
+    "time": "Aug '15",
+    "contract": "Internship",
+    "image": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/chevron.png"
+  }
+]

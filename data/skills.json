@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Frameworks & Libraries",
+    "data": [
+      {
+        "title": "React",
+        "value": 95
+      },
+      {
+        "title": "React Native",
+        "value": 85
+      },
+      {
+        "title": "Expo",
+        "value": 90
+      },
+      {
+        "title": "Redux",
+        "value": 90
+      },
+      {
+        "title": "Vue",
+        "value": 95
+      },
+      {
+        "title": "Vuex",
+        "value": 100
+      },
+      {
+        "title": "JQuery",
+        "value": 65
+      },
+      {
+        "title": "Nuxt.js",
+        "value": 75
+      },
+      {
+        "title": "Node.js",
+        "value": 85
+      },
+      {
+        "title": "Express.js",
+        "value": 85
+      },
+      {
+        "title": "Sequelize",
+        "value": 80
+      },
+      {
+        "title": "Mongoose",
+        "value": 80
+      },
+      {
+        "title": ".NET Core",
+        "value": 60
+      },
+      {
+        "title": "Socket.IO",
+        "value": 85
+      },
+      {
+        "title": "Apollo GraphQL",
+        "value": 80
+      },
+      {
+        "title": "Flutter SDK",
+        "value": 45
+      },
+      {
+        "title": "Windows Presentation Fondation (WPF)",
+        "value": 70
+      }
+    ]
+  },
+  {
+    "title": "CSS Framework",
+    "data": [
+      {
+        "title": "Bootstrap",
+        "value": 95
+      },
+      {
+        "title": "Tailwind",
+        "value": 90
+      },
+      {
+        "title": "Vuetify",
+        "value": 80
+      },
+      {
+        "title": "Quasar Framework",
+        "value": 90
+      },
+      {
+        "title": "Native Base",
+        "value": 90
+      }
+    ]
+  },
+  {
+    "title": "Databases & Cloud Services",
+    "data": [
+      {
+        "title": "MongoDB",
+        "value": 80
+      },
+      {
+        "title": "PostgreSQL",
+        "value": 80
+      },
+      {
+        "title": "AWS EC2",
+        "value": 85
+      },
+      {
+        "title": "Heroku",
+        "value": 90
+      },
+      {
+        "title": "AWS S3",
+        "value": 90
+      },
+      {
+        "title": "Firebase Firestore",
+        "value": 95
+      },
+      {
+        "title": "Firebase Hosting",
+        "value": 95
+      },
+      {
+        "title": "Firebase Authentication",
+        "value": 90
+      },
+      {
+        "title": "Firebase Cloud Function",
+        "value": 80
+      },
+      {
+        "title": "Firebase Realtime Database",
+        "value": 85
+      },
+      {
+        "title": "Google Cloud Platform",
+        "value": 80
+      }
+    ]
+  },
+  {
+    "title": "Programming Languanges",
+    "data": [
+      {
+        "title": "Javascript",
+        "value": 95
+      },
+      {
+        "title": "CSS",
+        "value": 85
+      },
+      {
+        "title": "HTML",
+        "value": 95
+      },
+      {
+        "title": "C#",
+        "value": 80
+      },
+      {
+        "title": "Java",
+        "value": 70
+      },
+      {
+        "title": "XAML/XML",
+        "value": 80
+      },
+      {
+        "title": "Golang",
+        "value": 65
+      },
+      {
+        "title": "Dart",
+        "value": 55
+      },
+      {
+        "title": "Python",
+        "value": 40
+      }
+    ]
+  }
+]

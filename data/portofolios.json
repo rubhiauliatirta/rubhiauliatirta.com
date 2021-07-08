@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "title": "Realtime Multiplayer Pauli Test",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/1.png",
+    "application_link": "https://pauli-game-fb.rubhiauliatirta.com",
+    "github_link": "https://github.com/rubhiauliatirta/realtime-multiplayer-pauli-test-game",
+    "tech_stack":["vue","socket.io","cron-job","kue","postgresql","bootstrap-vue","vuex","vue router","express.js","redis","sweetalert2","sequelize","heroku","firebase hosting"],
+    "year": 2020,
+    "descriptions": [
+      "Pauli & Kraepelin test (sometimes called Pauli Test or Tes Koran in Indonesian) is a test that measures the Speed, Accuracy, Consistency, and Endurance when one computes a simple summation mathematical problem, then interprets it into a measure of the personality of a person undergoing a test. This test is commonly used as one of psycological test in recruitment process in Indonesia.",
+      "I turned this test into a realtime multiplayer game using socket.io which lets you race against your friends. But be careful. Don't make a mistake!"
+    ],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/1-1.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/1-2.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/1-3.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/1-4.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/1-5.png"
+    ],
+    "videos": []
+  },
+  {
+    "id": 2,
+    "title": "YugiDeck",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/2.png",
+    "application_link": "https://yugideck-fb.rubhiauliatirta.com/",
+    "github_link": "https://github.com/rubhiauliatirta/yugideck-react",
+    "tech_stack":["react","redux","firebase cloud functions","firebase cloud firestore","firebase authentication","react bootstrap","sweetalert2","react router","react icons","firebase hosting","axios"],
+    "year": 2020,
+    "descriptions": [
+      "YugiDeck is a serverless app that allows user to build an unlimited deck of Japanese Yu-Gi-Oh! Trading Card Game developed by Konami. This app is using YGOPRODeck public Yu-Gi-Oh! API to access enormous Yu-Gi-Oh! card database with over 10.000 cards available to view.",
+      "I created this app to have a deeper understanding about React, especially React Hooks. I have learned that we can use hooks to separate stateful logic in our components to other functions, make our components cleaner and also allow us to reuse that stateful logic. Hooks are not only making our functional components have state like class component, it's more than that!",
+      "In this application, I also focus on studying Firebase services such as Authentication, Cloud Function, Cloud Firestore, and Hosting. I have learned how to write security rules and use cloud functions to restrict and validate CRUD operation on our collections in Cloud Firestore."
+    ],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/2-1.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/2-2.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/2-3.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/2-4.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/2-5.png"
+    ],
+    "videos": []
+  },
+  {
+    "id": 3,
+    "title": "MisterClass",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/3.png",
+    "application_link": "https://cbr.rubhiauliatirta.com",
+    "github_link": "https://github.com/rubhiauliatirta/mister-class",
+    "tech_stack":["vue","google-oauth2","google-auth-library","googleapis","amazon s3","bootstrap-vue","axios","vue-router","sweetalert2","node.js","express.js","redis","jsonwebtoken","heroku","cloudflare"],
+    "year": 2020,
+    "descriptions": ["Web application for reuse multiple assignment in your google classroom."],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/3-1.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/3-2.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/3-3.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/3-4.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/3-5.png"
+    ],
+    "videos": []
+  },
+  {
+    "id": 4,
+    "title": "Rublog",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/4.png",
+    "application_link": "https://rublog.herokuapp.com/",
+    "github_link": "https://github.com/rubhiauliatirta/rublog",
+    "tech_stack":["golang","gorm","postgresql","gorilla/securecookie","gorilla/sessions","crypto/bcrypt","bootstrap","heroku"],
+    "year": 2020,
+    "descriptions": ["Rublog is a web application with an article-sharing theme developed in the go language. This application is the final project of the Part-time Program (PTP) Scalable Web Services with Go Lang class from Kode.id, which I participated in from August to October 2020."],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/4-1.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/4-2.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/4-3.png"
+    ],
+    "videos": []
+  },
+  {
+    "id": 5,
+    "title": "expo-keycloak-auth",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/5.png",
+    "application_link": "https://www.npmjs.com/package/expo-keycloak-auth",
+    "github_link": "https://github.com/rubhiauliatirta/expo-keycloak-auth",
+    "tech_stack":["expo", "expo-auth-session", "async-storage", "react-context", "react-native"],
+    "year": 2021,
+    "descriptions": ["This npm package is based on balgamat/expo-keycloak written in Javascript with automatic token refresh handling re-implementation. This library wraps the use of expo AuthSession specific for the Keycloak authentication service. I built this npm package because several issues happen in balgamat's, and he wasn't updating his package yet."],
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "id": 6,
+    "title": "TAMS",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6.png",
+    "application_link": null,
+    "github_link": null,
+    "tech_stack":["Windows Presentation Fondation (WPF)", "C#.NET", "LiveChart", "MIConvexHull", "MathNet Numerics", "WritableBitmapEx", "Xceed Toolkit"],
+    "year": 2018,
+    "descriptions": [
+      "TAMS is a desktop application for exploring oil and gas potential in a field using thermal anomaly data. I translated the algorithms and business processes developed by Pertamina RTC into a usable application. This application has several features, including data input and calculation, lithology data prediction, data presentation in maps or charts, and other elements that help the prediction process."
+    ],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-1.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-2.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-3.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-4.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-5.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-6.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-7.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-8.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/6-9.png"
+    ],
+    "videos": []
+  },
+  {
+    "id": 7,
+    "title": "KPK Mobile",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/7.png",
+    "application_link": null,
+    "github_link": null,
+    "tech_stack": null,
+    "year": 2021,
+    "descriptions": [
+      "This mobile application is a prototype for online office administration approval, which integrates several services in one application so that it is easier, faster, and more efficient."
+    ],
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "id": 8,
+    "title": "rubhiauliatirta.com",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/8.png",
+    "application_link": "https://rubhiauliatirta.com",
+    "github_link": "https://github.com/rubhiauliatirta/rubhiauliatirta.com",
+    "tech_stack":["vue", "nuxt", "tailwind", "responsive-design", "seo"],
+    "year": 2021,
+    "descriptions": [
+      "This website is my personal website which is expected to display more comprehensive information related to my professional experience. You can see the history of my life from graduating from high school until now. You can also see the applications that I have developed and the skills I have learned."
+    ],
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "id": 9,
+    "title": "Virtual Melayu Percussion",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/9.png",
+    "application_link": "https://drive.google.com/drive/folders/1mgoOoqIhLluYpxpUbBkuJh5GBya8So8i?usp=sharing",
+    "github_link": null,
+    "tech_stack":["Android SDK"],
+    "year": 2017,
+    "descriptions": [
+      "This android native application is an application developed to complete the Indonesia Android Kejar beginner level program.",
+      "This application raises one of the cultures in Indonesia, precisely Riau Malay musical instruments. This application is expected to be an educational tool for users to get to know and try directly some of the typical musical instruments of the Riau province that are provided by this application virtually."
+    ],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/9-1.jpg",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/9-2.jpg",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/9-3.jpg",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/9-4.jpg",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/9-5.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/YU2RnO07lUg",
+      "https://www.youtube.com/embed/kyj9Rz37NQk",
+      "https://www.youtube.com/embed/b2Bdh6kOQlo"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "DGS Two Layer Anisotropic",
+    "application_link": "https://deltageoservice.com/tools/",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/10.png",
+    "github_link": null,
+    "tech_stack":["Windows Presentation Fondation (WPF)", "C#.NET", "LiveChart"],
+    "year": 2016,
+    "descriptions": [
+      "The P-wave reflection coefficient for weakly anisotropic VTI (transversely isotropic with symmetry axis) media  is derived by Thomsen in 1996 and corrected by Ruger in 1997. The P-wave reflection coefficient  approximation as plotted here is using Ruger’s equation"
+    ],
+    "screenshots": [
+     "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/10-1.png"
+    ],
+    "videos": []
+  },
+  {
+    "id": 11,
+    "title": "DGS Intermediate Surface",
+    "thumbnail": "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/11.png",
+    "application_link": null,
+    "github_link": null,
+    "tech_stack":["Windows Presentation Fondation (WPF)", "Ocean Petrel", "C#.NET"],
+    "year": 2016,
+    "descriptions": [
+      "This application is a petrel plug-in that can automatically create an isopach map that looks more geological by creating a user interface that allows users to add thickness data at the point the user wants."
+    ],
+    "screenshots": [
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/11-1.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/11-2.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/11-3.png",
+      "https://rubhi-file.s3.ap-southeast-1.amazonaws.com/ratcom/portofolios/11-4.png"
+    ],
+    "videos": []
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "title":"I love writing code.",
+  "about": [
+    "My journey in the programming world started when I learned basic programming courses in C++ at university. I realized that I find my own pleasure when successfully solving problems with code. At that time, the idea of ​​implementing programming to solve geological problems was still not popular, so I thought this skill was unique and I should preserve and improve it for my future.",
+    "In my last year in college, I decided to create a desktop application to process geological data using C# and Windows Forms as an undergraduate thesis. That is the most formidable challenge for me as someone who has no IT background, and my coding experience is only solving minor problems that can be solved with 100 lines of code. Luckily I have a mentor who shows me how to find a solution by googling, but I must still refer to the documentation if there is any syntax that I do not understand, not only copy and paste it. This habit makes me get used to developing something that I don't know how to accomplish yet by referring to the documentation.",
+    "After graduating and working as a geoscientist for two years, I did not stop learning various programming languages ​​and platforms. I even had time to work on a project to develop a desktop application for a state-owned oil and gas company using Windows Presentation Foundation (WPF) Framework. Finally, I decided to switch careers as a developer by joining a Bootcamp program for four months at Hacktiv8 and graduated as the best graduate.",
+    "I'm currently teaching Javascript and the latest frameworks such as React, Vue, Express.js, GraphQL, etc., on the Fullstack Javascript Web Immersive Program at Hacktiv8. At night, I do side and personal projects. I enjoyed it very much because I always learn something new in every project I am working on. In addition, I also take various online courses to broaden my horizons in the IT world."
+  ],
+  "timeline": [
+    {
+      "id": 1,
+      "time": "May 2011",
+      "description": "Graduated from SMA Negeri Plus Provinsi Riau in Pekanbaru, Riau Province."
+    },
+    {
+      "id": 2,
+      "time": "July 2011",
+      "description": "Went to Bandung Institute of Technology (ITB) as a Geological Engineering student."
+    },
+    {
+      "id": 3,
+      "time": "2011 - 2013",
+      "description": "Actively involved in various campus events and organizations."
+    },
+    {
+      "id": 4,
+      "time": "2013 - 2014",
+      "description": "Chosen as a leader of the ITB on Journey to Riau 2014, an annual event organized by Unit Kebudayaan Melayu Riau - ITB"
+    },
+    {
+      "id": 5,
+      "time": "2015 - 2016",
+      "description": "Developed a desktop application using Windows Forms and C#.NET (self-taught) to draw stratigraphic profiles from field data, determine rock porosity from thin section images, and predict the geological age of rock samples from microfossils analyses as an undergraduate thesis/final project."
+    },
+    {
+      "id": 6,
+      "time": "April 2016",
+      "description": "Graduated from Bandung Institute of Technology with a GPA 3.36"
+    },
+    {
+      "id": 7,
+      "time": "April 2016 - 2017",
+      "description": "Worked as a lecturer & practical assistant, learned about software development, C#.NET and Ocean Petrel Framework (self-taught), develop tools and Petrel Plug-in with DeltaGeoservice (pro bono)"
+    },
+    {
+      "id": 8,
+      "time": "February 2017",
+      "description": "Joined LAPI ITB Subsurface Database Management System Team as a geoscientist for the Database Project at SKK Migas"
+    },
+    {
+      "id": 9,
+      "time": "June 2017",
+      "description": "Participated in Indonesia Android Kejar - Beginner (Indonesian Android Study Group) and got an award as top 1st participant."
+    },
+    {
+      "id": 10,
+      "time": "August 2017",
+      "description": "Participated in Indonesia Android Kejar as Facilitator/Instructor for Beginner Level and Student for Intermediate Level."
+    },
+    {
+      "id": 11,
+      "time": "August 2018",
+      "description": "Joined project with LAPI-ITB and Pertamina Research Technology Center as a Programmer to develop a desktop application using Windows Presentation Form (WPF) and C#.NET for oil and gas exploration using thermal anomalies data."
+    },
+    {
+      "id": 12,
+      "time": "January 2019",
+      "description": "Resigned from Subsurface Database Management System Team and joined Hacktiv8’s Fullstack Javascript Web Development Program as a student to learn about web development and to switch careers as a software developer."
+    },
+    {
+      "id": 13,
+      "time": "May 2019",
+      "description": "Graduated from Hacktiv8’s FSJS Web Development program, received an honor award, and graduated as the only student who never repeated the phase at all. Hired by Hacktiv8 as FSJS program instructor."
+    },
+    {
+      "id": 14,
+      "time": "October 2020",
+      "description": "Contracted as a part-time front-end developer by USAID CEGAH to help the Corruption Eradication Commission (KPK) for integrating & adding several modules to jaga.id using vue.js and Quasar Framework for six months."
+    },
+    {
+      "id": 15,
+      "time": "April 2021",
+      "description": "Contracted as a consultant by KPK for three months to develop a mobile application prototype using react-native."
+    }
+  ]
+}
+
