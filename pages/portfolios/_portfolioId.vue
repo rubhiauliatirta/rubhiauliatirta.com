@@ -88,19 +88,19 @@
 </template>
 
 <script>
-import portofolios from '~/data/portofolios'
+import portfolios from '~/data/portfolios'
 import DateSVG from '~/components/svg/Date.vue'
 import Link from '~/components/svg/Link.vue'
 
 export default {
-  name: 'PortofolioDetail',
+  name: 'PortfolioDetail',
   components: {
     DateSVG,
     Link,
   },
   created() {
-    this.data = portofolios.find(
-      (item) => item.id == this.$route.params.portofolioId
+    this.data = portfolios.find(
+      (item) => item.id == this.$route.params.portfolioId
     )
   },
   data() {

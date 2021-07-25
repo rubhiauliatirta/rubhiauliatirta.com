@@ -17,7 +17,7 @@
       <div class="text-sm font-semibold lg:flex-grow lg:gap-x-5 lg:flex">
         <NuxtLink to="/about" class="nav-link" @click.native="toggle">About Me</NuxtLink>
         <NuxtLink to="/experiences" class="nav-link" @click.native="toggle">Experiences</NuxtLink>
-        <NuxtLink to="/portofolios" class="nav-link" @click.native="toggle">Portofolios</NuxtLink>
+        <NuxtLink to="/portfolios" class="nav-link" @click.native="toggle">Portfolios</NuxtLink>
         <NuxtLink to="/skills" class="nav-link" @click.native="toggle">Skills & Certifications</NuxtLink>
       </div>
     </div>

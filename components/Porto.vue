@@ -10,7 +10,7 @@
         <p class="text-sm text-gray-600">{{techs}}</p>
       </div>
       <div class="self-end">
-        <nuxt-link class="bg-white cursor-pointer text-primary text-sm font-semibold py-2 px-4" :to="`/portofolios/${id}`">
+        <nuxt-link class="bg-white cursor-pointer text-primary text-sm font-semibold py-2 px-4" :to="`/portfolios/${id}`">
           SHOW DETAIL
         </nuxt-link>
       </div>
